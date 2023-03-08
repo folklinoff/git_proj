@@ -7,4 +7,5 @@ import (
 //This is the entry point for a programm project
 func main() {
   Greet("Maksud")
+  HappyGreet("Maksud")
 }
